@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\teoru\source\repos\RobotSpider-DLL_CURL\Template__CURL\Source.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 314 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Template__CURL.vcxproj -> C:\Users\teoru\source\repos\RobotSpider-DLL_CURL\Release\Template__CURL.exe
